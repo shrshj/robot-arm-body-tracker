@@ -30,7 +30,7 @@ We designed and 3D printed an end effector to connect the camera and the robot a
 
 ### 4. Robot Tracking Code
 
-- Note: The provided code is specific to the Ufactort xArm. For other robot arms, you will need to adapt the code accordingly. You may also need to use different programming languages, such as Neuromeka with Python or Doosan robot with DRL language.
+- Note: The provided code is specific to the Ufactort xArm. For other robot arms, you will need to adapt the code accordingly. You may also need to use different programming languages, such as Doosan robot with DRL language.
 
 - Complete the 'To-Do' sections in the code specific to the robot arm you are using.
 
