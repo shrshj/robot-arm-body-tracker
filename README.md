@@ -24,7 +24,7 @@ We designed and 3D printed an end effector to connect the camera and the robot a
 
 - Place the `body_tracking_customized.py` file in the directory specified in the image below. If you are using an operating system other than Windows, locate the path where sample projects are saved for your OS and insert the file there.
 
-  ![Link to Image](media/body_tracking_customized_path.jpg)
+  ![Link to Image](media/body_tracking_customized_path.png)
 
 - Complete the 'To-Do' sections in the code and make any necessary modifications according to your requirements.
 
