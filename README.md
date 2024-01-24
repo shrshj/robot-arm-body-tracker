@@ -46,4 +46,5 @@ Ensure both the ZED camera code and the robot tracking code are completed and ex
 
 This repository serves as a starting point, and certain sections of the code are marked as 'To-Do' for customization based on specific requirements. The provided code is intended to inspire and guide the implementation of a collaborative robot arm body tracker. Feel free to enhance and extend the functionality according to your project needs.
 
-Additionally, you can find a tutorial on the basics of robot arms authored by me [here](link-to-your-tutorial).
+Additionally, you can find a tutorial on the basics of robot arms authored by me [here](https://www.youtube.com/watch?v=LM_INiNuWcs&list=PLTQAfwphGUyHzWAlYQcYkhI6lLmYAdobT).
+
