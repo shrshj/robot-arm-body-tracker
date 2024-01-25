@@ -18,13 +18,13 @@ Follow the instructions in the [ZED SDK documentation](https://www.stereolabs.co
 
 We designed and 3D printed an end effector to connect the camera and the robot arm.
 
-![Link to Image](media/physical_connection.jpg)
+<img src="media/physical_connection.jpg" width="500"/>
 
 ### 3. ZED Camera Code
 
 - Place the `body_tracking_customized.py` file in the directory specified in the image below. If you are using an operating system other than Windows, locate the path where sample projects are saved for your OS and insert the file there.
 
-  ![Link to Image](media/body_tracking_customized_path.png)
+<img src="media/body_tracking_customized_path.png" width="500"/>
 
 - Complete the 'To-Do' sections in the code and make any necessary modifications according to your requirements.
 
@@ -40,8 +40,7 @@ Ensure both the ZED camera code and the robot tracking code are completed and ex
 
 ### 6. Demo
 
-![Link to Image](media/demo.gif)
-<img src="media/demo.gif" width="700"/>
+<img src="media/demo.gif" width="500"/>
 
 ## Note
 
