@@ -1,6 +1,6 @@
 # Collaborative Robot Arm Body Tracker
 
-This repository provides a starting point for implementing a collaborative robot arm body tracker using a ZED camera and a Ufactort xArm. The project involves configuring the ZED camera, establishing the physical connection between the camera and the robot arm, and implementing the necessary Python code for body tracking.
+This repository provides a starting point for implementing a collaborative robot arm body tracker using a ZED camera and a Ufactory xArm. The project involves configuring the ZED camera, establishing the physical connection between the camera and the robot arm, and implementing the necessary Python code for body tracking.
 
 ## Requirements
 
@@ -36,7 +36,7 @@ We designed and 3D printed an end effector to connect the camera and the robot a
 
 ### 5. Run Both Codes
 
-Ensure both the ZED camera code and the robot tracking code are completed and execute both scripts.
+Ensure both the ZED camera code and the robot tracking code are completed and run both scripts.
 
 ### 6. Demo
 
