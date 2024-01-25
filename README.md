@@ -6,7 +6,7 @@ This repository provides a starting point for implementing a collaborative robot
 
 - ZED Camera with ZED SDK version 3.8: [ZED SDK 3.8](https://www.stereolabs.com/developers/release/3.8)
 - Python version 3.8.0
-- Ufactort xArm (6-joint robot arm)
+- Ufactory xArm (6-joint robot arm)
 
 ## Setup Steps
 
