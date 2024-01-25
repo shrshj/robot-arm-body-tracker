@@ -40,7 +40,7 @@ Ensure both the ZED camera code and the robot tracking code are completed and ex
 
 ### 6. Demo
 
-![Link to Image](path/to/image)
+![Link to Image](media/demo.gif)
 
 ## Note
 
